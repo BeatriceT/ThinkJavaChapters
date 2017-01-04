@@ -12,7 +12,7 @@ public class Main {
 
         //System.out.println(SevenFour.factorial(6));
 
-        System.out.println(SevenFive.myexp(2, 5));
+        System.out.println(SevenFive.myexp(3, 2));
 
 
     }
